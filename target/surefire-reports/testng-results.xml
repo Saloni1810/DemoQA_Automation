@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-26T12:37:44 IST" name="Suite" finished-at="2024-06-26T12:39:08 IST" duration-ms="83473">
+    <groups>
+    </groups>
+    <test started-at="2024-06-26T12:37:44 IST" name="Test" finished-at="2024-06-26T12:39:08 IST" duration-ms="83473">
+      <class name="com.kiwiqa.pages.FormTestNG">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.kiwiqa.pages.FormTestNG@32eff876]" started-at="2024-06-26T12:37:44 IST" name="setUp" finished-at="2024-06-26T12:38:49 IST" duration-ms="64338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.kiwiqa.pages.FormTestNG@32eff876]" started-at="2024-06-26T12:38:49 IST" name="beforeMethod" finished-at="2024-06-26T12:38:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="readExcelData()[pri:0, instance:com.kiwiqa.pages.FormTestNG@32eff876]" started-at="2024-06-26T12:38:49 IST" name="readExcelData" finished-at="2024-06-26T12:39:06 IST" duration-ms="17317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcelData -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.kiwiqa.pages.FormTestNG@32eff876]" started-at="2024-06-26T12:39:06 IST" name="afterMethod" finished-at="2024-06-26T12:39:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.kiwiqa.pages.FormTestNG@32eff876]" started-at="2024-06-26T12:39:06 IST" name="afterClass" finished-at="2024-06-26T12:39:08 IST" duration-ms="1717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.kiwiqa.pages.FormTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
